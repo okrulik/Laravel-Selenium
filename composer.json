@@ -36,12 +36,5 @@
                 "Modelizer\\Selenium\\SeleniumServiceProvider"
             ]
         }
-    },
-     "repositories":
-    [
-        {
-            "type": "vcs",
-            "url": "https://github.com/okrulik/steward"
-        }
-    ]
+    }
 }
