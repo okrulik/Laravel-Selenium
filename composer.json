@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "okrulik/steward": "dev-master",
+        "okrulik/steward": "master",
         "guzzlehttp/guzzle": "^6.2",
         "orchestra/testbench": "^3.3"
     },
