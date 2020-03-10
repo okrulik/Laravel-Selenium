@@ -1,5 +1,5 @@
 {
-    "name": "modelizer/selenium",
+    "name": "okrulik/selenium",
     "description": "Selenium Package for laravel 5.",
     "license": "MIT",
     "authors": [
@@ -36,5 +36,12 @@
                 "Modelizer\\Selenium\\SeleniumServiceProvider"
             ]
         }
-    }
+    },
+     "repositories":
+    [
+        {
+            "type": "vcs",
+            "url": "https://github.com/okrulik/steward"
+        }
+    ]
 }
